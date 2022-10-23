@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0EEBF18E-272D-828E-0FE3-FE5D1E52DE1C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/00Script/Golem.cs">
+    <Files>
+      <File FileName="Assets/00Script/Utils.cs" Line="30" Column="35" IsPinned="True" />
+      <File FileName="Assets/00Script/RelicManager.cs" Line="149" Column="10" IsPinned="True" />
+      <File FileName="Assets/00Script/GameManager.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/SO/ItemSO.cs" IsPinned="True" />
+      <File FileName="Assets/00Script/Enemy.cs" Line="5" Column="1" IsPinned="True" />
+      <File FileName="Assets/00Script/TurnManager.cs" Line="135" Column="1" />
+      <File FileName="Assets/00Script/CardManager.cs" Line="156" Column="29" />
+      <File FileName="Assets/00Script/Effect.cs" Line="47" Column="16" />
+      <File FileName="Assets/00Script/Golem.cs" Line="29" Column="2" />
+      <File FileName="Assets/00Script/00/Player.cs" Line="33" Column="35" />
+      <File FileName="Assets/00Script/EntityManager.cs" Line="63" Column="20" />
+      <File FileName="Assets/00Script/Relic.cs" Line="22" Column="38" />
+      <File FileName="Assets/00Script/Card.cs" Line="105" Column="1" />
+      <File FileName="Assets/00Script/00/EnemyBullet.cs" Line="15" Column="5" />
+      <File FileName="Assets/Scripts/SO/BasicCardSO.cs" Line="23" Column="2" />
+      <File FileName="Assets/Resources/stage0.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CardGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="00Script" expanded="True">
+                <Node name="00" expanded="True" />
+                <Node name="Golem.cs" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="SO" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d5e89e9-c8ba-4caa-8352-53782aa110fd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

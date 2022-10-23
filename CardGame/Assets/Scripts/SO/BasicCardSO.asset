@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a092056dd40c442c932f8a60a0857b9, type: 3}
+  m_Name: BasicCardSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\uC6CC\uD130"
+    damage: 5
+    distance: 20
+    speed: 2
+    type: Water
+    AbilitySprite: {fileID: -1732300504774770303, guid: 88a759caaacaa4ed9861d8c44c42688a, type: 3}
+    AbilityTypeSprite: {fileID: -4274934852995809040, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 5
+    effectPrefab: {fileID: 6660438503714587724, guid: 6664862496e1d483ea002d367cc3fd65, type: 3}
+  - name: "\uD30C\uC774\uC5B4"
+    damage: 5
+    distance: 20
+    speed: 2
+    type: Fire
+    AbilitySprite: {fileID: -8461147239325149418, guid: 88a759caaacaa4ed9861d8c44c42688a, type: 3}
+    AbilityTypeSprite: {fileID: 4396293691415557497, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 5
+    effectPrefab: {fileID: 3305182603671938762, guid: d840de278369f4bccb1e23afddb1c67c, type: 3}
+  - name: "\uC77C\uB809\uD2B8\uB9AD"
+    damage: 5
+    distance: 20
+    speed: 2
+    type: Electric
+    AbilitySprite: {fileID: 21300000, guid: d5e3988cacb5346db8efe0d6f8745731, type: 3}
+    AbilityTypeSprite: {fileID: -5411657244088715712, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 5
+    effectPrefab: {fileID: 4810181424298712612, guid: f51e5d92922e242d781010e00efaa641, type: 3}
+  - name: "\uB77C\uC774\uD2B8 \uC18C\uB4DC"
+    damage: 8
+    distance: 15
+    speed: 1.5
+    type: Bolt
+    AbilitySprite: {fileID: 7720663138470640321, guid: d356afa695b1d4e4481881bd9aa39234, type: 3}
+    AbilityTypeSprite: {fileID: -5840584642714845272, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 3
+    effectPrefab: {fileID: 5040118973270294165, guid: e0a80465b69964e27ad43432d070a2ff, type: 3}
+  - name: "\uD30C\uC774\uC5B4 \uC18C\uB4DC"
+    damage: 8
+    distance: 15
+    speed: 1.5
+    type: Fire
+    AbilitySprite: {fileID: -635909720229376370, guid: d356afa695b1d4e4481881bd9aa39234, type: 3}
+    AbilityTypeSprite: {fileID: 4396293691415557497, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 3
+    effectPrefab: {fileID: 6507402610057475118, guid: dedbe264faceb4e899a69105773172f8, type: 3}
+  - name: "\uC6CC\uD130 \uC18C\uB4DC"
+    damage: 8
+    distance: 15
+    speed: 0.8
+    type: Water
+    AbilitySprite: {fileID: 7569950851654701253, guid: d356afa695b1d4e4481881bd9aa39234, type: 3}
+    AbilityTypeSprite: {fileID: -5411657244088715712, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 3
+    effectPrefab: {fileID: 5524598995828527603, guid: 35149d74a430542549f2edd1c178a402, type: 3}
+  - name: "\uD68C\uBCF5"
+    damage: 1
+    distance: 0
+    speed: 0.5
+    type: Health
+    AbilitySprite: {fileID: 710343495158886863, guid: 88a759caaacaa4ed9861d8c44c42688a, type: 3}
+    AbilityTypeSprite: {fileID: 4783249505438190673, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 5
+    effectPrefab: {fileID: 1129825114479191358, guid: 70ad14328c58b459c83e9e7a3774e753, type: 3}
+  - name: "\uB77C\uC774\uD2B8"
+    damage: 10
+    distance: 10
+    speed: 1.2
+    type: Water
+    AbilitySprite: {fileID: 21300000, guid: e240c40da139d4e54aee2efe4960bec3, type: 3}
+    AbilityTypeSprite: {fileID: -4274934852995809040, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 2
+    effectPrefab: {fileID: 6898738652628384317, guid: ff96873d24221469792574f9d21311dc, type: 3}
+  - name: "\uC6CC\uD130 \uC2A4\uD1B0"
+    damage: 20
+    distance: 8
+    speed: 0.8
+    type: Bolt
+    AbilitySprite: {fileID: 5588282096294998325, guid: 88a759caaacaa4ed9861d8c44c42688a, type: 3}
+    AbilityTypeSprite: {fileID: -4274934852995809040, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 3
+    effectPrefab: {fileID: 4749615627260384073, guid: 3dc9ebb5ec75a4c76af1ae7ff94f7850, type: 3}
+  - name: "\uD30C\uC774\uC5B4 \uC2A4\uD1B0"
+    damage: 15
+    distance: 8
+    speed: 0.8
+    type: Fire
+    AbilitySprite: {fileID: 910856450225951591, guid: 88a759caaacaa4ed9861d8c44c42688a, type: 3}
+    AbilityTypeSprite: {fileID: 4396293691415557497, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 3
+    effectPrefab: {fileID: 7723129106276510627, guid: 480a503204d48458ba679faa591ac8f9, type: 3}
+  - name: "\uC6CC\uD130 \uBC45"
+    damage: 20
+    distance: 10
+    speed: 1.5
+    type: Water
+    AbilitySprite: {fileID: 21300000, guid: 9687b8cba872c4f50aeb3b2b3ff1a0b7, type: 3}
+    AbilityTypeSprite: {fileID: -4274934852995809040, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 2
+    effectPrefab: {fileID: 6898738652628384317, guid: ff96873d24221469792574f9d21311dc, type: 3}
+  - name: "\uC6E8\uC774\uBE0C\uD3FC"
+    damage: 20
+    distance: 10
+    speed: 2
+    type: Water
+    AbilitySprite: {fileID: 21300000, guid: 5334a60396bca40f19ac9d531fab2621, type: 3}
+    AbilityTypeSprite: {fileID: -4274934852995809040, guid: efed5a1491d214d9580ce4bfd0ee996e, type: 3}
+    percent: 2
+    effectPrefab: {fileID: 8613469524201387198, guid: 95451e91831df4f22a9ec39d3e0cfcfb, type: 3}

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Card
+  - Trush
+  - Basic Card
+  - CardDummy
+  - Effect
+  - Entity
+  - Enemy
+  - Relic
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MyCardArea
+  - Water
+  - UI
+  - MyChoiceCardArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1801290459
+    locked: 0
+  - name: Effect
+    uniqueID: 1907562397
+    locked: 0
+  - name: Enemy
+    uniqueID: 270549531
+    locked: 0
+  - name: Entity
+    uniqueID: 522657829
+    locked: 0
+  - name: Card
+    uniqueID: 2857358877
+    locked: 0
+  - name: HpBar
+    uniqueID: 4211875269
+    locked: 0

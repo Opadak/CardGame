@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ee28c8fb4cb4e2983723972e4618f7, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: Assembly-CSharp::Item/ItemSO
+  playerItems:
+  - name: "\uD589\uC6B4\uC758 \uC9C0\uD321\uC774"
+    index: 0
+    information: "\uB9E4 \uD134\uB9C8\uB2E4 \uCE74\uB4DC\uB97C 1\uC7A5 \uB354 \uC0AC\uC6A9\uD560
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4"
+    itemImg: {fileID: 21300000, guid: 21ed692efe3d95a40bcb58ec97b4d87a, type: 3}
+    itemType: 7
+    stat: 1
+  - name: "\uB2E8\uB2E8\uD55C \uAC11\uC637 "
+    index: 1
+    information: "\uB370\uBBF8\uC9C0\uB97C -1 \uB35C \uBC1B\uC2B5\uB2C8\uB2E4. "
+    itemImg: {fileID: 21300000, guid: 567fdd2e557fefc478f8aaa7ae56fb11, type: 3}
+    itemType: 2
+    stat: 1
+  - name: "\uB530\uB73B\uD55C \uB4F1\uBD88"
+    index: 2
+    information: "\uB9E4\uD134\uB9C8\uB2E4 1\uC529 \uD790\uC744 \uD569\uB2C8\uB2E4. "
+    itemImg: {fileID: 21300000, guid: 5780c0f7daa138f46823eb60d93b7cc6, type: 3}
+    itemType: 0
+    stat: 1
+  - name: "\uAE43\uD138 \uC2E0\uBC1C"
+    index: 3
+    information: "\uD68C\uD53C\uC728\uC774  3% \uC99D\uAC00\uD569\uB2C8\uB2E4. "
+    itemImg: {fileID: 21300000, guid: 29a1226f7b5e20240942612e151c3c4c, type: 3}
+    itemType: 4
+    stat: 3
+  - name: "\uC9C4\uC2E4\uC758 \uB208"
+    index: 4
+    information: "\uD06C\uB9AC\uD2F0\uCEEC\uC774 5% \uC99D\uAC00\uD569\uB2C8\uB2E4. "
+    itemImg: {fileID: 21300000, guid: 4461c87bad5222349b14c22b26d43b95, type: 3}
+    itemType: 5
+    stat: 5
+  - name: "\uD589\uBCF5\uC758 \uB3D9\uC804"
+    index: 5
+    information: "\uB9E4 \uD134\uB9C8\uB2E4 \uCE74\uB4DC\uB97C 1\uC7A5 \uBF51\uC744
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    itemImg: {fileID: 21300000, guid: 4605338a5a51383478a6b8eb3707e90c, type: 3}
+    itemType: 6
+    stat: 1
+  - name: "\uB9C8\uBC95\uC0AC\uC758 \uBAA8\uC790"
+    index: 6
+    information: "\uB9E4 \uD134 \uB9C8\uB2E4 \uCE74\uB4DC\uB97C 2\uC7A5 \uB354 \uC0AC\uC6A9\uD560
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4. "
+    itemImg: {fileID: 21300000, guid: b28311bcbf17b47458fddc96553ce9c8, type: 3}
+    itemType: 7
+    stat: 2
+  - name: "\uB9E5\uC8FC"
+    index: 7
+    information: "\uCD5C\uB300 \uCD5C\uB825\uC774 5 \uB354 \uB298\uC5B4\uB0A9\uB2C8\uB2E4."
+    itemImg: {fileID: 21300000, guid: d0c05b9125ed56349a5385e1a77547b7, type: 3}
+    itemType: 1
+    stat: 5
+  - name: "\uB0A0\uCE74\uB85C\uC6B4 \uCE7C"
+    index: 8
+    information: "\uACF5\uACA9 \uB370\uBBF8\uC9C0\uAC00 +5 \uB354 \uB4E4\uC5B4\uAC11\uB2C8\uB2E4."
+    itemImg: {fileID: 21300000, guid: 90e99a7fde056a4418b9fe16084adb5c, type: 3}
+    itemType: 3
+    stat: 5
+  - name: "\uC2E0\uBE44\uD55C \uAE43\uD138 "
+    index: 9
+    information: "\uC6D0\uAC70\uB9AC \uACF5\uACA9\uC758 \uD68C\uD53C\uC728\uC774
+      50% \uC99D\uAC00\uD569\uB2C8\uB2E4. "
+    itemImg: {fileID: 21300000, guid: 5319e90cdef08eb4a90ed29d73271916, type: 3}
+    itemType: 8
+    stat: 50
