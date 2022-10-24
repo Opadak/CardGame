@@ -15,7 +15,7 @@ public class CardManager : MonoBehaviour
     [SerializeField] Transform myCardRight;
 
     public List<Card> myCards;
-    // SerializerField는 인스텍터 창에서는 노출 하고 싶은데 외부스크립트 로부터 감추고 싶을 때 사용.
+   
 
     List<BasicCardItem> basicCardItemBuffer;
     Card selectCard;
